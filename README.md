@@ -60,9 +60,7 @@
 
 <p align="left">Hello World!!</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/vishal0316/vishal0316/output/snake.svg" alt="Snake animation" />
+#
 
 ###
 
