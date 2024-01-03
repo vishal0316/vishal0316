@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Vishal Rajput<br>passionate frontend developer from India</h2>
+<h2 align="left">Hi 👋, I'm Vishal Rajput a Open Source Contributer And <br>passionate frontend developer from India</h2>
 
 ###
 
